@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@100;400;700&display=swap');
 :root {
     --color0: #fff;
     --color1: orangered;
     --color2: #4F4F4F;
     --color3: #f0f0f0;
-    --font: "Mukta", sans serif;
+    --font: "Saira", sans serif;
     --hover: black;
     --radius: 50px;
     --gradient: linear-gradient(45deg, #ff0000, #ffad00);
